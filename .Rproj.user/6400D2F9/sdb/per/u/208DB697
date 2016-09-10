@@ -1,0 +1,18 @@
+{
+    "contents" : "survey <- read.csv(\"survey_clean3.csv\", stringsAsFactors=FALSE)\n\n# 1. Segment out the questions\n# 2. Segment out the answer categories:\n#   * State\n#   * Gender\n#   * Age\n#   * Race\n#   * Education\n#   * Pay\n#   * Children\n# 3. Make stacked bar chart based on each answer within each category\n#  * Chart should include title ",
+    "created" : 1449678290692.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1600582268",
+    "id" : "208DB697",
+    "lastKnownWriteTime" : 288232575174967296,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

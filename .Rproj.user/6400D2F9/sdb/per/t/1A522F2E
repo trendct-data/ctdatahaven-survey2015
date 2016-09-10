@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449678307194.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A522F2E",
+    "lastKnownWriteTime" : 7144531335555740928,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "jnasmul8qp",
+        "caption" : "survey",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=survey&cache_key=jnasmul8qp",
+        "displayedObservations" : "669",
+        "environment" : "",
+        "object" : "survey",
+        "totalObservations" : "669",
+        "variables" : "26"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
